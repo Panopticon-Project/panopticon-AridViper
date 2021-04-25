@@ -9,3 +9,5 @@ https://team-cymru.com/blog/2020/12/16/mapping-out-aridviper-infrastructure-usin
 https://cyware.com/news/new-aridviper-malware-targets-outlook-users-1de90a3f
 
 https://www.welivesecurity.com/2020/09/30/aptc23-group-evolves-its-android-spyware/
+
+https://therecord.media/facebook-disrupts-two-nation-state-groups-operating-out-of-palestine/
