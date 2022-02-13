@@ -13,3 +13,5 @@ https://www.welivesecurity.com/2020/09/30/aptc23-group-evolves-its-android-spywa
 https://therecord.media/facebook-disrupts-two-nation-state-groups-operating-out-of-palestine/
 
 https://www.technadu.com/apt-c-23-using-new-android-spyware-middle-east/301868/
+
+https://blog.talosintelligence.com/2022/02/arid-viper-targets-palestine.html
